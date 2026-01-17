@@ -26,7 +26,7 @@ I build production systems that handle real business operations. Currently maint
 
 ## GitHub Stats
 
-![Benson's GitHub stats](https://github-readme-stats.vercel.app/api?username=bensonnlee&show_icons=true&theme=dark)
+[![GitHub Streak](https://github-readme-streak-stats-seven-umber.vercel.app?user=bensonnlee&theme=dark-minimalist)](https://git.io/streak-stats)
 
 ## Connect
 

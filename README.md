@@ -24,10 +24,6 @@ I build production systems that handle real business operations. Currently maint
 - **Machine Learning & Data Mining** - Supervised learning, classification, regression, clustering, margin-based methods
 - **ML in Business Applications** - Applying ML techniques to real-world business problems and production systems
 
-## GitHub Stats
-
-[![GitHub Streak](https://github-readme-streak-stats-seven-umber.vercel.app?user=bensonnlee&theme=dark-minimalist)](https://git.io/streak-stats)
-
 ## Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-bensonlee.dev-blue?style=flat-square)](https://bensonlee.dev)

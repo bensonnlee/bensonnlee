@@ -93,8 +93,8 @@ Coursework I'm deep in right now:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=benson-lee123&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&ring_color=58a6ff" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benson-lee123&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=bensonnlee&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&ring_color=58a6ff" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bensonnlee&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" height="165" />
 
 </div>
 

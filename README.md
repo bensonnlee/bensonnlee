@@ -1,12 +1,12 @@
 # Hey, I'm Benson 👋
 
-**Computer Science @ UC Riverside** | **NSF Fellow** | **Founding Software Engineer**
+**Founding Software Engineer** | **NSF Fellow** | **Computer Science @ UC Riverside**
 
-I build production systems that handle real business operations. Currently maintaining a full-stack delivery management platform processing **9,000+ monthly transactions** with **99.999% uptime** for Lee's Noodle.
+I build production systems that handle real business operations. Currently maintaining a full-stack delivery management platform processing **10,000+ monthly transactions** with **99.999% uptime** for Lee's Noodle.
 
 ## What I'm Doing
 
-- Maintaining production Django/PostgreSQL system handling 400+ daily invoices
+- Maintaining production Django/PostgreSQL system handling 500+ daily invoices
 - Graduating June 2026 from UC Riverside
 - Leveraging AI development tools to accelerate software delivery
 

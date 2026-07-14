@@ -22,15 +22,14 @@
 
 I build production systems that handle real business operations. Currently maintaining a full-stack delivery management platform processing **10,000+ monthly transactions** with **99.999% uptime** for Lee's Noodle.
 
-> *If the system goes down, deliveries stop. So it doesn't go down.*
-
 <br/>
 
 ### `📂 What I'm Doing`
 
 - Maintaining production Django/PostgreSQL system handling **500+ daily invoices**
-- Graduating **June 2026** from UC Riverside
+- Graduated **June 2026** from UC Riverside
 - Leveraging AI development tools to accelerate software delivery
+- SDE @ WD
 
 <br/>
 
@@ -64,31 +63,6 @@ I build production systems that handle real business operations. Currently maint
     <td>Full-Stack Development · Production Systems · AI-Assisted Development · API Design</td>
   </tr>
 </table>
-
-<br/>
-
-### `📡 Currently Learning`
-
-<details>
-<summary><b>Advanced Algorithm Design</b></summary>
-<br/>
-Combinatorial optimization, network flows, linear programming, NP-completeness, approximation algorithms
-<br/><br/>
-</details>
-
-<details>
-<summary><b>Machine Learning & Data Mining</b></summary>
-<br/>
-Supervised learning, classification, regression, clustering, margin-based methods
-<br/><br/>
-</details>
-
-<details>
-<summary><b>ML in Business Applications</b></summary>
-<br/>
-Applying ML techniques to real-world business problems and production systems
-<br/><br/>
-</details>
 
 <br/>
 
